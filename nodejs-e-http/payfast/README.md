@@ -1,4 +1,4 @@
-# API de pagamento
+# API de Pagamento
 
 ## Configurações do projeto
 
