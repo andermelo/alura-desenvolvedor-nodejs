@@ -4,5 +4,5 @@
 
 1. Clone o projeto - `https://github.com/andermelo/alura-desenvolvedor-nodejs/new/master/nodejs-e-http/payfast`
 2. Entre no diretório - `cd payfast`
-3. Instalar Dependências - `npm install`
-4. Iniciar Servidor da API - `nodemon index.js`
+3. Instalar dependências - `npm install`
+4. Iniciar servidor da API - `nodemon index.js`
