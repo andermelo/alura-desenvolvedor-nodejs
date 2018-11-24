@@ -1,6 +1,6 @@
 # Desenvolvedor Node.js
 
-Curso da Alura em Node.js
+Curso da Alura Node.js
 
 ## Projetos
 
